@@ -1,8 +1,8 @@
 class Jpick < Formula
   desc "Tiny jq-like JSON tool written in C++20"
   homepage "https://github.com/mangrisano/jpick"
-  url "https://github.com/mangrisano/jpick/archive/refs/tags/v2.7.2.tar.gz"
-  sha256 "cf21673b77a40951b77b964aebaa7d00ff4e005e7d97be7bea51946cbed47d3d"
+  url "https://github.com/mangrisano/jpick/archive/refs/tags/v2.8.0.tar.gz"
+  sha256 "99212da36b84773584c099ba6fef4920334aeb8aabffdf0f5c4a366307da7da4"
   license "MIT"
   head "https://github.com/mangrisano/jpick.git", branch: "main"
 
